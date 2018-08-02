@@ -1,0 +1,13 @@
+{
+  "name": "TYPECHAIN",
+  "version": "1.0.0",
+  "description": "learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/jodnddus/typechain.git",
+  "author": "jodnddus <lockhost23@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js", 
+    "prestart": "tsc" 
+  }
+}
